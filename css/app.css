@@ -1,0 +1,104 @@
+/*通用样式*/
+ul li{
+	list-style-type: none;
+}
+
+/*head样式*/
+.panel-heading .row{
+	margin-top: 10px;
+}
+.col-md-10 .row:nth-last-child(1){
+	margin-bottom: 15px;
+}
+
+.col-md-10 .row:nth-child(2){
+	margin-top: 0px;
+}
+
+.col-md-10 .row:nth-child(1){
+	margin-top: 0px;
+}
+
+
+.col-md-5 span{
+	margin-right: 10px;
+}
+
+.col-md-11 span{
+	margin-right: 10px;
+}
+
+.col-md-1>img{
+	width:60%;
+}
+
+
+.self_img{
+	width:80%;
+}
+.form-control{
+	color:#333;
+}
+.has-success .form-control{
+	border-color: #bce8f1;
+}
+
+/*main-body样式*/
+.panel.panel-primary{
+	border-color: transparent;
+	border-bottom:1px solid #eee;
+}
+.panel.panel-primary>.panel-heading  {
+	border:1px solid transparent;
+	border-radius:2px;
+	/*background-color: #000;*/
+	border-color: transparent;
+
+}
+.panel-primary>.panel-heading{
+    width:110px;
+}
+
+.panel-primary>.panel-body{
+	border:1px solid transparent;
+	border-radius:0;
+}
+
+.panel-body>.media-left{
+	float: left;
+}
+
+.panel-heading>span:nth-child(2){
+	font-weight: 700;
+}
+.mar-top{
+	margin-top: 50px;
+
+}
+
+.list-group-item-text>img{
+	width:5%;
+	margin-right: 10px;
+}
+
+.media-left{
+	padding-right: 0px;
+}
+
+
+
+.media-left>h4{
+	font-weight: bold;
+	text-indent: 15px;
+}
+
+
+.media-body h5{
+	margin-top: 20px;
+}
+
+.border_bottom{
+	border-bottom:1px solid rgba(66,139,202,0.1);
+
+}
+
