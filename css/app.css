@@ -32,6 +32,31 @@ ul li{
 	width:60%;
 }
 
+.col-sm-10 .row:nth-last-child(1){
+	margin-bottom: 15px;
+}
+
+.col-sm-10 .row:nth-child(2){
+	margin-top: 0px;
+}
+
+.col-sm-10 .row:nth-child(1){
+	margin-top: 0px;
+}
+
+
+.col-sm-5 span{
+	margin-right: 10px;
+}
+
+.col-sm-11 span{
+	margin-right: 10px;
+}
+
+.col-sm-1>img{
+	width:60%;
+}
+
 
 .self_img{
 	width:80%;
