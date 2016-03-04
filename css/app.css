@@ -11,31 +11,27 @@ ul li{
 .panel-heading .row{
 	margin-top: 10px;
 }
-.col-md-10 .row:nth-last-child(1),.col-sm-10 .row:nth-last-child(1){
+.col-xs-10 .row:nth-last-child(1){
 	margin-bottom: 15px;
 }
 
-.col-md-10 .row:nth-child(2),.col-sm-10 .row:nth-child(2){
+.col-xs-10 .row:nth-child(2),.col-xs-10 .row:nth-child(1){
 	margin-top: 0px;
 }
 
-.col-md-10 .row:nth-child(1),.col-sm-10 .row:nth-child(1){
-	margin-top: 0px;
-}
-
-.col-md-5 span,.col-sm-5 span{
+.col-xs-5 span{
 	margin-right: 10px;
 }
 
-.col-md-11 span,.col-sm-11 span{
+.col-xs-11 span{
 	margin-right: 10px;
 }
 
-.col-md-1>img,.col-sm-1>img{
+.col-xs-1>img{
 	width:60%;
 }
 
-.row>.col-md-11>ol>li,h5.media-heading{
+.row>.col-xs-11>ol>li,h5.media-heading{
 	margin-bottom: 1em;
 }
 
