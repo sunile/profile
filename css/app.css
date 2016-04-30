@@ -98,7 +98,10 @@ ul li{
 .panel-body>.media-left{
 	float: left;
 }
+.media-left h4>span{
+	padding-left: 3rem;
 
+}
 .panel-heading>span:nth-child(2){
 	font-weight: 700;
 }
